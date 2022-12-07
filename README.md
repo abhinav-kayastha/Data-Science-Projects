@@ -1,3 +1,3 @@
 # Data-Science-Projects
 
-My projects in the Data Science field.
+My Data Science Projects.
